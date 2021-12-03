@@ -2,8 +2,8 @@
 
 Jesús Miguel Álvarez Vázquez
 
-Edgar Bezares Samaniego
-
 David de Jesús Ávila Pacheco
+
+Edgar Bezares Samaniego
 
 Eduardo Leonel Echeverría León
