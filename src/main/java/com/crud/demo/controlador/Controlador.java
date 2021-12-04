@@ -32,7 +32,7 @@ public class Controlador {
  * @param modelo Objeto de tipo Model del cual se obtienen los métodos.
  * @return Dirección url.
  */
-    @GetMapping("/listar")
+    @GetMapping("")
     public String listar(Model modelo) {
         List<Usuario> usuarios = servicio.listar();
         modelo.addAttribute("usuarios", usuarios);
